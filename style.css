@@ -1,0 +1,36 @@
+body{
+    margin:0;
+    font-family:Arial;
+    background:#111;
+    color:white;
+}
+
+header{
+    text-align:center;
+    padding:60px;
+    background:black;
+}
+
+nav{
+    text-align:center;
+    padding:15px;
+    background:#1f1f1f;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:20px;
+}
+
+section{
+    width:80%;
+    margin:auto;
+    padding:40px;
+}
+
+footer{
+    text-align:center;
+    padding:20px;
+    background:black;
+}
